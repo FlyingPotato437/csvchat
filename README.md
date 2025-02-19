@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AI CSV Chat Application, developed by Srikanth, leverages the power of Streamlit and Langchain to create an interactive and conversational interface for interacting with CSV files. Explore, analyze, and visualize your data using natural language queries.
+AI CSV Chat Application leverages the power of Streamlit and Langchain to create an interactive and conversational interface for interacting with CSV files. Explore, analyze, and visualize your data using natural language queries.
 
 ## Features
 
@@ -62,10 +62,6 @@ Please report issues or contribute to the project through [GitHub](link-to-repos
 ## License
 
 MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Author
-
-- **Srikanth** - [Github Profile](link-to-profile)
 
 ## Acknowledgments
 
